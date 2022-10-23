@@ -15,4 +15,4 @@
 
 ## Using LetterBomb ##
 
-<img src="https://user-images.githubusercontent.com/113637453/197420695-8713c87a-1edb-45f7-a90e-f55b55423243.png" alt="LetterBomb" width="100"/>
+<img src="https://user-images.githubusercontent.com/113637453/197420695-8713c87a-1edb-45f7-a90e-f55b55423243.png" alt="LetterBomb" width="20"/>
