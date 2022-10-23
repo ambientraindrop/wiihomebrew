@@ -10,6 +10,6 @@ Which Wii do you have?
 
 They're both hackable, they just use different methods. Make sure you select the right one, or else it won't work, or it'll be more complicated than it has to be.
 
-**[I have a Wii.](https://connorisirish.github.io/wiihomebrew/wii)**
+<a href="https://connorisirish.github.io/wiihomebrew/wii" class="btn">I have a Wii.</a>
 
-**[I have a Wii Mini.](https://connorisirish.github.io/wiihomebrew/wiimini)**
+<a href="https://connorisirish.github.io/wiihomebrew/wiimini" class="btn">I have a Wii Mini.</a>
