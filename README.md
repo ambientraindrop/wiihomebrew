@@ -6,6 +6,6 @@ Let's get started with the basics.
 Which Wii do you have?
 
 
-[Wii](https://connorisirish.github.io/wiihomebrew/regularwii)
+[I have a Wii](https://connorisirish.github.io/wiihomebrew/wii)
 
-[Wii Mini](https://connorisirish.github.io/wiihomebrew/wiimini)
+[I have a Wii Mini](https://connorisirish.github.io/wiihomebrew/wiimini)
