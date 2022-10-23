@@ -6,3 +6,5 @@ Let's get started with the basics.
 
 
 # Step 1: Letterbomb
+
+This is the easiest path to take if you have a regular Wii. (***NOT A WII MINI OR THE vWII INSIDE THE WII U! ATTEMPTING TO INSTALL HOMEBREW INSIDE THE WII U'S vWII WILL BRICK THE vWII!***)
