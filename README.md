@@ -11,4 +11,4 @@ You will need:
 
 An SD card; at least 128 MB in size, no more than 32 GB in size. I would recommend a 4 GB SD card. I wouldn't recommend using microSD card adapters.
 A Wii; on System Menu 4.3 or later.
-Your Wii's MAC address; this can be found by going into `Wii Settings -> Internet -> Console Information`
+Your Wii's MAC address; this can be found by going into `Wii Settings` -> `Internet` -> `Console Information`
