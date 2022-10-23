@@ -2,9 +2,13 @@
 
 ## You will need: ##
 
+
 An SD card, preferrably 2 GB (maximum 32 GB)
+
 A computer and a Wii with an internet connection
+
 Your Wii's MAC address
+
 A web browser
 
 
