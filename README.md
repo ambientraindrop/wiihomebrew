@@ -6,6 +6,6 @@ Let's get started with the basics.
 Which Wii do you have?
 
 > :Buttons
-> > :Button label=Wii, url=https://connorisirish.github.io/regularwii
+> > :Button label=Wii, url=https://connorisirish.github.io/wiihomebrew/regularwii
 >
 > > :Button label=Wii Mini, url=https://npmjs.org
