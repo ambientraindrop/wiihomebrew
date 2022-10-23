@@ -2,14 +2,13 @@
 
 ## You will need: ##
 
+- An SD card, preferrably 2 GB (maximum 32 GB)
 
-An SD card, preferrably 2 GB (maximum 32 GB)
+- A computer and a Wii with an internet connection
 
-A computer and a Wii with an internet connection
+- Your Wii's MAC address
 
-Your Wii's MAC address
-
-A web browser
+- A web browser
 
 
 ## Using LetterBomb ##
