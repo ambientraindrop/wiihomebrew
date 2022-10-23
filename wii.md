@@ -24,3 +24,9 @@ Select your Wii's region. This can be found in `Wii Settings`.
 
 ![ Select "Wii"_](https://user-images.githubusercontent.com/113637453/197423077-347cc7d2-d1e8-4e26-8a47-a75258def196.png)
 ![ Select "Wii Settings"_](https://user-images.githubusercontent.com/113637453/197423095-bf9e0da1-f403-448a-a1a6-2e91cf84a65a.png)
+
+![ Select "Internet"_](https://user-images.githubusercontent.com/113637453/197423343-cedd9f94-c9c6-43fc-9676-fea85916b972.png)
+
+![ Select "Console Information" ](https://user-images.githubusercontent.com/113637453/197423358-b7188d4c-2329-4979-8716-9e3dfd163232.png)
+
+
