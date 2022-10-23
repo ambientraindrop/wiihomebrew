@@ -13,3 +13,13 @@ They're both hackable, they just use different methods. Make sure you select the
 [ [  I have a Wii.  ] ](https://connorisirish.github.io/wiihomebrew/wii)
 
 [ [  I have a Wii Mini.  ] ](https://connorisirish.github.io/wiihomebrew/wiimini)
+
+<script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
+<script>
+  kofiWidgetOverlay.draw('wiihomebrew', {
+    'type': 'floating-chat',
+    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.background-color': '#794bc4',
+    'floating-chat.donateButton.text-color': '#fff'
+  });
+</script>
