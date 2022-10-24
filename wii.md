@@ -17,7 +17,7 @@
 
 *This is where your Wii's MAC address comes in handy! Make sure you have it either written down or stored on your phone or computer.*
 
-Open your web browser and navigate to [please.hackmii.com](https://www.please.hackmii.com).
+Open your web browser and navigate to [please.hackmii.com](https://please.hackmii.com).
 
 Select your Wii's region. This can be found in `Wii Settings`.
 
