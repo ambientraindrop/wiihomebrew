@@ -16,7 +16,7 @@ They're both hackable, they just use different methods. Make sure you select the
 
 <script src='https://storage.ko-fi.com/cdn/scripts/overlay-widget.js'></script>
 <script>
-  kofiWidgetOverlay.draw('wiihomebrew', {
+  kofiWidgetOverlay.draw('connorisirish', {
     'type': 'floating-chat',
     'floating-chat.donateButton.text': 'Support me',
     'floating-chat.donateButton.background-color': '#794bc4',
