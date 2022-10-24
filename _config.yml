@@ -1,5 +1,5 @@
 remote_theme: pages-themes/cayman@v0.2.0
 title: Wii Homebrew
-description: The fancy, modern guide for all things Wii Homebrew.
+description: The fancy, modern guide to all things Wii Homebrew.
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
