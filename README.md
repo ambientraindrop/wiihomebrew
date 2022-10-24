@@ -18,7 +18,7 @@ They're both hackable, they just use different methods. Make sure you select the
 <script>
   kofiWidgetOverlay.draw('wiihomebrew', {
     'type': 'floating-chat',
-    'floating-chat.donateButton.text': 'Tip Me',
+    'floating-chat.donateButton.text': 'Support me',
     'floating-chat.donateButton.background-color': '#794bc4',
     'floating-chat.donateButton.text-color': '#fff'
   });
